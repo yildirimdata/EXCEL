@@ -1,2 +1,3 @@
 # EXCEL
-Excel practices
+
+IBM Excel for data science course practices, exams...
